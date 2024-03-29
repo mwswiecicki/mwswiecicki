@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @mwswiecicki
-- 👀 I’m interested in bicycles, climbing 
-- 🌱 I’m currently learning Python, SQL.
+- 👋 Hi, I’m Mateusz Święcicki
+- 👀 https://www.linkedin.com/in/mwswiecicki/
 - 📫 m.w.swiecicki@gmail.com
 
 <!---
